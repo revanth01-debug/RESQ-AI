@@ -12,45 +12,45 @@ RESQ AI aims to address these challenges through a centralized disaster-response
 
 ## 💡 Key Features
 
-### 1. 📡 Disaster Communication
+**1. 📡 Disaster Communication**
 - Designed around the challenge of communication failures during disasters.
 - Supports emergency reporting and communication-related workflows.
 - Mesh-network communication is a project concept; actual offline device-to-device communication depends on implementing a compatible networking system.
 
-### 2. 🗺️ Tactical Geolocation Grid
+**2. 🗺️ Tactical Geolocation Grid**
 - Visualizes disaster zones and incident markers.
 - Displays critical, high-risk, warning, and safe-zone indicators.
 - Includes map layers for rescue teams, hospitals, shelters, blocked roads, evacuation routes, and citizen SOS reports.
 - Provides interactive incident and zone details.
 
-### 3. 🆘 Citizen Emergency Reporting
+**3. 🆘 Citizen Emergency Reporting**
 - Allows citizens to submit emergency reports.
 - Captures incident descriptions, categories, and location information.
 - Supports browser-based GPS coordinates when permission is granted.
 - Can display a city or place name when reverse geocoding is available.
 
-### 4. 🤖 AI-Powered Decision Support
+**4. 🤖 AI-Powered Decision Support**
 - Designed to assist with disaster classification and risk analysis.
 - Supports AI-assisted incident summaries and threat assessments.
 - Can provide response recommendations through the configured Gemini API.
 - AI recommendations should be verified before operational use.
 
-### 5. 🚑 Rescue Resource Coordination
+**5. 🚑 Rescue Resource Coordination**
 - Displays rescue teams, ambulances, hospitals, and shelters.
 - Provides interfaces for viewing incident and resource information.
 - Supports resource coordination workflows.
 
-### 6. 🛣️ Evacuation Planning
+**6. 🛣️ Evacuation Planning**
 - Visualizes evacuation corridors and blocked-road indicators.
 - Provides an interface for reviewing evacuation options.
 - Actual route optimization requires geographic road data and route-calculation logic.
 
-### 7. 🚨 Emergency Alerts
+**7. 🚨 Emergency Alerts**
 - Includes emergency broadcast and alert-management interfaces.
 - Supports alert preparation and simulated communication workflows.
 - Actual delivery requires a configured messaging or notification service.
 
-### 8. 📊 Emergency Operations Dashboard
+**8. 📊 Emergency Operations Dashboard**
 - Centralized view of incidents, hazards, and response resources.
 - Interactive controls for monitoring and exploring incident information.
 - Designed to support faster situational awareness and coordinated response.
