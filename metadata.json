@@ -1,0 +1,7 @@
+{
+  "name": "RESQ AI - Disaster Communication & Emergency Response",
+  "description": "Advanced AI-powered emergency command center and disaster communication platform for real-time monitoring, AI threat detection, evacuation routing, rescue coordination, resource management, and citizen emergency reporting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
